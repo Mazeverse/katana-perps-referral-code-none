@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://katana-perps-referral-code-none.vercel.app/sitemap.xml
